@@ -1,0 +1,17 @@
+            ........Loops........
+              #  There are three types of Loops are :-
+
+                    1. for Loop
+                    2. while Loop
+                    3. do-while Loop
+
+
+    # for loop :- for( initialisation , condition , updation ){
+        // do some work
+    }
+        
+    # While Loop :- initialisation
+                    while (condition){
+                        cout<< cout;
+                        updation;
+                    }

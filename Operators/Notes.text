@@ -1,0 +1,33 @@
+
+                    .......Operators.......
+
+ # Operators = Symbols that tell compiler to perform some operations.
+
+                Example =  A + B 
+                            Here A and B is Operands.
+                            and + are Operators.
+
+
+    ....Types of Operators....
+    
+        # Arithmetic Operators
+
+        # Assignment Operators
+
+        # Relational Operators
+
+        # Logical Operators
+
+        # Bitwise Operators
+
+
+
+        ....Arithmetic Operators are two types :-
+            1. Binary - # Addition (+)
+                        # Subtraction (-)
+                        # Multiply (*)
+                        # Divide (/)
+                        # Modulo (%)
+
+            2.Unary - # increment (+ +)
+                      # Decrement (- -)

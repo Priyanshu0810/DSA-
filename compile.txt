@@ -1,0 +1,13 @@
+## how to compile c++ code in vs code 
+
+1. open terminal
+2. g++ file_name.cpp -o output_file_name
+3. name_of_output_file
+
+/*       compile
+    1.  g++ else_if.cpp -o else_if  ----- g++ file_name.cpp -o output_file_name
+   
+    2.  else_if.exe  ----- name_of_output_file
+   
+    3.  Done!     -----  run the program
+*/
